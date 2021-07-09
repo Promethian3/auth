@@ -1,0 +1,27 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "\"Authentication microservice\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Promethian3/auth.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongo",
+    "token-based-authentication",
+    "jwt",
+    "mongoose"
+  ],
+  "author": "Erick F. Ballesteros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Promethian3/auth/issues"
+  },
+  "homepage": "https://github.com/Promethian3/auth#readme"
+}
